@@ -1,0 +1,17 @@
+bumpversion==0.5.3
+coverage==4.4.1
+flake8-blind-except == 0.1.1
+flake8-commas == 0.4.3
+flake8-debugger == 1.4.0
+flake8-isort == 2.2.2
+flake8==3.4.1
+hypothesis==3.33.0
+isort==4.2.15
+pip==9.0.1
+pytest-runner==2.12.1
+pytest==3.2.3
+PyYAML==3.12
+Sphinx==1.6.4
+tox==2.9.1
+watchdog==0.8.3
+wheel==0.30.0
