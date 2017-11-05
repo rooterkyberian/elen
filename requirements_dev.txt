@@ -2,7 +2,7 @@ bumpversion==0.5.3
 coverage==4.4.2
 flake8-blind-except == 0.1.1
 flake8-commas == 0.4.3
-flake8-debugger == 1.4.0
+flake8-debugger==3.0.0
 flake8-isort == 2.2.2
 flake8==3.5.0
 hypothesis==3.33.0
