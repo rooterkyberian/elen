@@ -14,4 +14,4 @@ pytest-runner==4.2
 Sphinx >=1.6.5,<2
 tox==3.0.0
 watchdog >=0.8.3,<0.9
-wheel==0.31.0
+wheel==0.31.1
