@@ -2,15 +2,15 @@
 # This file will be regenerated if you run travis_pypi_setup.py
 
 language: python
+sudo: required # https://github.com/travis-ci/travis-ci/issues/9815#issuecomment-401756442
+dist: xenial
 python:
+  - 3.7
   - 3.6
   - 3.5
-  - 3.4
 
-# command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 install: pip install -U tox-travis
 
-# command to run tests, e.g. python setup.py test
 script: tox
 
 # After you create the Github repo and add it to Travis, run the
