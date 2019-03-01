@@ -9,7 +9,7 @@ flake8-isort >= 2.2.2
 hypothesis==4.7.17
 isort==4.3.9
 pip==19.0.3
-pytest==4.2.0
+pytest==4.3.0
 pytest-runner==4.2
 Sphinx >=1.6.5,<2
 tox==3.7.0
