@@ -8,7 +8,7 @@ flake8-debugger >=3,<4
 flake8-isort >= 2.2.2
 hypothesis==4.18.3
 isort==4.3.17
-pip==19.0.3
+pip==19.1
 pytest==4.4.0
 pytest-runner==4.4
 Sphinx==2.0.0
