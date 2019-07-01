@@ -7,7 +7,7 @@ flake8-commas==2.0.0
 flake8-debugger >=3,<4
 flake8-isort >= 2.2.2
 hypothesis==4.24.6
-isort==4.3.16
+isort==4.3.21
 pip==19.0.3
 pytest==4.4.0
 pytest-runner==4.4
