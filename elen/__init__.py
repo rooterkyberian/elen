@@ -131,7 +131,7 @@ class OriginalElen:
 
 
 class Elen(OriginalElen):
-    PLUS = '='
+    PLUS = '='  # ensure PLUS char follows all other digits in ASCII table
 
 
 # shortcut for calling encoding methods:
