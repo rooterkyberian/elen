@@ -29,3 +29,12 @@ Features
 --------
 
 * two-way conversion between ELEN notation and Python `decimal.Decimal` instance
+
+
+Usage
+-----
+
+    >>> from decimal import Decimal
+    >>> import elen
+    >>> elen.decimal(Decimal("3.145"))
+    '=3145-'
